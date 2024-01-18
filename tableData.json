@@ -1,0 +1,27 @@
+{
+  "classOne": [
+    { "id": 1, "name": "Abul", "scores": "A+", "percentage": 98 },
+    { "id": 2, "name": "Kabul", "scores": "B", "percentage": 90 },
+    { "id": 3, "name": "Babul", "scores": "A", "percentage": 78 },
+    { "id": 4, "name": "Habul", "scores": "A+", "percentage": 88 },
+    { "id": 5, "name": "Tabul", "scores": "A", "percentage": 90 },
+    { "id": 6, "name": "Pabul", "scores": "C", "percentage": 68 },
+    { "id": 7, "name": "Makbul", "scores": "D", "percentage": 58 },
+    { "id": 8, "name": "John", "scores": "C", "percentage": 95 },
+    { "id": 9, "name": "Rakib", "scores": "A+", "percentage": 68 },
+    { "id": 10, "name": "Ferdous", "scores": "A", "percentage": 92 }
+  ],
+
+  "classTwo": [
+    { "id": 1, "name": "Hadi", "scores": "A+", "percentage": 90 },
+    { "id": 2, "name": "Subin", "scores": "B", "percentage": 70 },
+    { "id": 3, "name": "Sadhan", "scores": "A", "percentage": 80 },
+    { "id": 4, "name": "Rubel", "scores": "A+", "percentage": 88 },
+    { "id": 5, "name": "Nayeem", "scores": "A", "percentage": 90 },
+    { "id": 6, "name": "Shuvo", "scores": "C", "percentage": 68 },
+    { "id": 7, "name": "Rahamat", "scores": "D", "percentage": 58 },
+    { "id": 8, "name": "Shah", "scores": "C", "percentage": 95 },
+    { "id": 9, "name": "Rahib", "scores": "A+", "percentage": 68 },
+    { "id": 10, "name": "Anik", "scores": "A", "percentage": 92 }
+  ]
+}
